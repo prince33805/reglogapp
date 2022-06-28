@@ -1,0 +1,92 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px;
+}
+body{
+    background-color: #fff;
+    color: #000;
+}
+hr {
+    color: #141E61;
+}
+
+footer {
+    /* position: absolute;
+    margin-top: -10px; */
+    background-color: #141E61;
+}
+.container{
+    background-color: #EEEEEE;
+    min-height: 650px;
+    width: 100%;
+    /* text-align: center; */
+}
+
+.col-6 {
+    /* padding: 20px; */
+    background-color: #eee;
+    text-align: left;
+}
+
+label {
+    margin: 5px;
+}
+
+nav {
+    padding: 20px;
+    text-align: center;
+    background-color: #141E61;
+    color: #eee;
+}
+
+nav a{
+    margin: 25px;
+    padding: 25px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+button {
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+table {
+    margin-top: 30px;
+    color: #EEEEEE;
+    /* min-height: 500px; */
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+.dropdown {
+    width: 100%;
+    margin-top: 10px;
+}
+
+img {
+    margin-top:20px;
+    width: 250px;
+    height: 250px;
+}
+
+.vertical {
+    border-left: 1px solid #141E61;
+    height: 920px;
+    width: auto;
+    position:absolute;
+    left: 35.5%;
+}
+
+.form-group {
+    margin:  20px 0;
+}
+
+h5 {
+    margin-left: 20px;
+}
